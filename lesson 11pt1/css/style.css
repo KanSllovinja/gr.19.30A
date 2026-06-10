@@ -1,0 +1,36 @@
+p{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px; 
+
+    background-color: blueviolet;
+} 
+
+/*
+p{
+ margin: 100px 150px 60px 80px;
+
+}
+
+
+p{
+    margin: 100px;
+} 
+
+
+p{
+    margin: 100px 200px 50px;
+}
+
+*/
+
+div{
+   /*  padding: 100px 300px 150px 80px; */
+  padding: 100px ;
+  width: 150px;
+  border: 15px solid green;
+  margin: 50px;
+  background-color: antiquewhite;
+
+}
