@@ -1,0 +1,48 @@
+h1{
+    color: green ;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    writing-mode: horizontal-tb;
+}
+
+p{
+    text-indent: 50px;
+    text-align: center;
+}
+
+h2{
+    text-decoration:overline ;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+h4{
+    text-decoration: line-through;
+    text-transform: uppercase;
+    white-space: inherit;
+    text-shadow: none;
+    
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.myElement{
+    color: blue;
+}
+
+#normalText{
+    font-style: normal;
+}
+
+#italicText{
+    font-style: italic;
+
+}
+
+#boldText{
+    font-style: oblique;
+}
