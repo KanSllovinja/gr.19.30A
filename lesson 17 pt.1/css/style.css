@@ -17,3 +17,11 @@ z-index: 1;
 .dropdown:hover .dropdown-content{
     display: block;
 }
+
+
+
+.tooltip{
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
