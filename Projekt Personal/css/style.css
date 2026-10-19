@@ -31,10 +31,6 @@ nav{
     font-weight: bold;
 }
 
-.logo span:last-child {
-    color: #1683e8;
-}
-
 .logo-icon{
     display: inline-block;
     background-color: #1683e8;
@@ -107,7 +103,6 @@ nav{
 
 .search-grid{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 150px;
     gap: 10px;
 }
 
@@ -181,7 +176,6 @@ nav{
 
 .destinations-grid{
     display: grid;
-    grid-template-columns: 1fr 1fr;
     gap: 25px;
 }
 
